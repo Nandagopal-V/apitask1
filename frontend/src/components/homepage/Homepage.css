@@ -1,0 +1,13 @@
+.button1
+ {background-color: #008CBA;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.Homepage
+{
+    position:fixed;
+    left: 35%;
+    top: 35%;
+}
